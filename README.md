@@ -6,6 +6,7 @@ A personal repo of a collection of LeetCode questions solved
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0001-two-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
@@ -27,4 +28,8 @@ A personal repo of a collection of LeetCode questions solved
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0110-balanced-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

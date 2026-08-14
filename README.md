@@ -19,18 +19,21 @@ A personal repo of a collection of LeetCode questions solved
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0543-diameter-of-binary-tree) |
@@ -57,5 +60,6 @@ A personal repo of a collection of LeetCode questions solved
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->

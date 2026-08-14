@@ -7,6 +7,7 @@ A personal repo of a collection of LeetCode questions solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0036-valid-sudoku) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
@@ -44,6 +45,7 @@ A personal repo of a collection of LeetCode questions solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0036-valid-sudoku) |
 ## Linked List
 |  |
 | ------- |
@@ -69,4 +71,8 @@ A personal repo of a collection of LeetCode questions solved
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->

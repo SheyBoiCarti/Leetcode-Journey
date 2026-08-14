@@ -20,16 +20,19 @@ A personal repo of a collection of LeetCode questions solved
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0543-diameter-of-binary-tree) |
 ## Array
 |  |
@@ -51,4 +54,8 @@ A personal repo of a collection of LeetCode questions solved
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0543-diameter-of-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->

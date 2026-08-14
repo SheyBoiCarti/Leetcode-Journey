@@ -20,14 +20,17 @@ A personal repo of a collection of LeetCode questions solved
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0543-diameter-of-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -44,4 +47,8 @@ A personal repo of a collection of LeetCode questions solved
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0002-add-two-numbers) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->

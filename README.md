@@ -67,6 +67,7 @@ A personal repo of a collection of LeetCode questions solved
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0232-implement-queue-using-stacks) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -75,4 +76,12 @@ A personal repo of a collection of LeetCode questions solved
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0036-valid-sudoku) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->

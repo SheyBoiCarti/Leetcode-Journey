@@ -1,6 +1,8 @@
 # Leetcode-Journey
 A personal repo of a collection of LeetCode questions solved
 
+profile: https://leetcode.com/u/Sheharyar_Codes/
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table

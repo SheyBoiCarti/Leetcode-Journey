@@ -6,22 +6,20 @@ class Solution(object):
         """
 
         validindex=0
-        current=0
-        #[1,2,3]
-        while(current< len(nums)):
+        current=1
 
-            while(current+1 < len(nums) and nums[current]== nums[current+1]):
-                current+=1
+        #[1,2,2,3]
+        while(current< len(nums)):
+            if nums[validindex]!= nums[current]: 
+                validindex+=1
+                nums[validindex]= nums[current]
             
-            nums[validindex]= nums[current]
-            validindex+=1
             current+=1
             
-        
-
-
-        print(validindex)
-        return validindex
+          #plus one because valid index returns to the array index
+          #adding one gives the number of unique elements
+        return validindex+1
+       
 
 
 

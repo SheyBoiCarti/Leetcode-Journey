@@ -1,14 +1,25 @@
-public class Solution {
-    public void Merge(int[] nums1, int m, int[] nums2, int n) {
-        
-        int nums1Length = nums1.Length;
-        int counter=0;
+public class Solution
+{
+    public void Merge(int[] nums1, int m, int[] nums2, int n)
+    {
+        int end1 = m - 1;
+        int end2 = n - 1;
+        int i = m + n - 1;
 
-        for(int i=m;i<nums1Length;i++){
-            nums1[i]= nums2[counter];
-            counter++;
+        while (end2 >= 0)
+        {
+            if (end1 >= 0 && nums1[end1] > nums2[end2])
+            {
+                nums1[i] = nums1[end1];
+                end1--;
+            }
+            else
+            {
+                nums1[i] = nums2[end2];
+                end2--;
+            }
+
+            i--;
         }
-
-        Array.Sort(nums1);
     }
 }

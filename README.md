@@ -64,6 +64,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | ------- |
 | [0001-two-sum](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0036-valid-sudoku) |
+| [0088-merge-sorted-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Linked List
@@ -113,6 +114,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Prefix Sum
 |  |
@@ -123,4 +125,8 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->

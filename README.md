@@ -1,5 +1,7 @@
 # Leetcode-Journey
-A personal repo of a collection of LeetCode questions solved
+A collection of my LeetCode solutions documenting my progress in data structures, algorithms, and problem solving.
+
+The purpose of this repository is to improve my understanding of common DSA patterns, improve my problem-solving ability, and track my progress over time.
 
 profile: https://leetcode.com/u/Sheharyar_Codes/
 

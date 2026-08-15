@@ -63,6 +63,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0036-valid-sudoku) |
 | [0088-merge-sorted-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
@@ -129,6 +130,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->

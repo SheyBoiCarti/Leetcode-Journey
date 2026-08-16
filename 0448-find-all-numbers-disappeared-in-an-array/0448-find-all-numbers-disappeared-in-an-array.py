@@ -4,20 +4,21 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-
-        hashset= set()
+      
         result=[]
-        
 
-        for n in nums:
-            hashset.add(n)
-        
-        for i in range(1,len(nums)+1):
-            if i not in hashset:
-                result.append(i)
-        
+        for i in range(len(nums)):
+            value= abs(nums[i])-1 #minus one because we want index
+            nums[value]= abs(nums[value]) *-1
+     
+        for i in range(len(nums)):
+            if nums[i] > 0 :
+                result.append(i+1)
+        print(nums)
         return result
+
+
         
-
-
+           
+        
         

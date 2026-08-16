@@ -5,7 +5,6 @@ class Solution:
         :type nums: List[int]
         :rtype: List[int]
         """
-        # bruteforce solution, o(n) ^2
         temp= nums.copy()
         temp.sort()
         hashmap= {}

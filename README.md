@@ -34,6 +34,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | [0144-binary-tree-preorder-traversal](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -45,6 +46,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | [0144-binary-tree-preorder-traversal](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -58,6 +60,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | [0144-binary-tree-preorder-traversal](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0543-diameter-of-binary-tree) |
 ## Array
 |  |
@@ -127,10 +130,19 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->

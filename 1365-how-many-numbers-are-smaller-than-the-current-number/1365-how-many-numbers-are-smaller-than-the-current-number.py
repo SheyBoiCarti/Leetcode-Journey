@@ -1,22 +1,30 @@
-class Solution(object):
-    def smallerNumbersThanCurrent(self, nums):
+class Solution:
+    def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
+  
         """
         :type nums: List[int]
         :rtype: List[int]
         """
-        #index=0
-        #2 for loops
-        #i=0, counter=0
-        #[8,1,2,2,3]
+        # bruteforce solution, o(n) ^2
+        temp= nums.copy()
+        temp.sort()
+        hashmap= {}
+        result= [0] * len(nums) #result = [0,0,0,0,0]
 
-        result=[0] * len(nums)
+
+        for i in range(len(temp)):
+            if temp[i] in hashmap:
+                hashmap[temp[i]]= min(hashmap[temp[i]],i)
+            else:
+                hashmap[temp[i]]=i
+                # hashmap {1:0, 2:1, 3:3, 8:4}
+        print(temp)
+        print(nums)
 
         for i in range(len(nums)):
-            for j in range(len(nums)):
-                if i==j:
-                    continue
-                elif nums[j] < nums[i]:
-                    result[i]= result[i]+1
+            result[i]= hashmap[nums[i]]
+
         return result
+
                 
 

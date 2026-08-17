@@ -72,6 +72,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -115,6 +116,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0054-spiral-matrix) |
 ## Design
 |  |
 | ------- |
@@ -169,4 +171,8 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/1266-minimum-time-visiting-all-points) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

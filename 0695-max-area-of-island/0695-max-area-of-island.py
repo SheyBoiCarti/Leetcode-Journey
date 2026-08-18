@@ -30,13 +30,3 @@ class Solution:
                     current=0
         
         return max_area
-                    
-
-
-            
-
-            
-
-
-
-        

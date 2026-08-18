@@ -1,0 +1,38 @@
+from collections import deque
+
+class Solution:
+    def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
+
+        rows = len(image)
+        cols = len(image[0])
+
+        old_color = image[sr][sc]
+
+        if old_color == color:
+            return image
+
+        queue = deque()
+        queue.append((sr, sc))
+
+        while queue:
+
+            x, y = queue.popleft()
+
+            # out of bounds
+            if x < 0 or x >= rows or y < 0 or y >= cols:
+                continue
+
+            # wrong color / already changed
+            if image[x][y] != old_color:
+                continue
+
+            # recolor current cell
+            image[x][y] = color
+
+            # add neighbours to queue
+            queue.append((x - 1, y))  # up
+            queue.append((x + 1, y))  # down
+            queue.append((x, y - 1))  # left
+            queue.append((x, y + 1))  # right
+
+        return image

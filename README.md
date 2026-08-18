@@ -56,6 +56,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -86,6 +87,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | [0268-missing-number](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0733-flood-fill) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -125,6 +127,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | [0199-binary-tree-right-side-view](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
@@ -133,6 +136,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | [0054-spiral-matrix](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0733-flood-fill) |
 ## Design
 |  |
@@ -197,4 +201,5 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->

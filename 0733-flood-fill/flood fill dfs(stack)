@@ -1,0 +1,32 @@
+class Solution:
+    def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
+
+        rows = len(image)
+        cols = len(image[0])
+
+        old_color = image[sr][sc]
+
+        if old_color == color:
+            return image
+
+        stack = [(sr, sc)]
+
+        while stack:
+            x, y = stack.pop()
+
+            # out of bounds
+            if x < 0 or x >= rows or y < 0 or y >= cols:
+                continue
+
+            # wrong color / already changed
+            if image[x][y] != old_color:
+                continue
+
+            image[x][y] = color
+
+            stack.append((x - 1, y))  # up
+            stack.append((x + 1, y))  # down
+            stack.append((x, y - 1))  # left
+            stack.append((x, y + 1))  # right
+
+        return image

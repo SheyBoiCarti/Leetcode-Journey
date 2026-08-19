@@ -3,10 +3,7 @@ class Solution:
         
         town_judge =-1
         counterForPeopleTrustingTownJudge=0
-
-        if n==len(trust):
-            return -1
-
+        
         hashset= set()
 
         for i in range(len(trust)):

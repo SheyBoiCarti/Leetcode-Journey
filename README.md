@@ -20,6 +20,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | [0268-missing-number](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0997-find-the-town-judge](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0997-find-the-town-judge) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -100,6 +101,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | [0695-max-area-of-island](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0997-find-the-town-judge) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
@@ -239,4 +241,8 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->

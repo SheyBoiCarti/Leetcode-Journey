@@ -17,6 +17,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | [0219-contains-duplicate-ii](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -90,6 +91,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | [0217-contains-duplicate](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0695-max-area-of-island) |
@@ -164,6 +166,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | [0217-contains-duplicate](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Prefix Sum
@@ -198,6 +201,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Geometry
 |  |
@@ -212,4 +216,20 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | ------- |
 | [0200-number-of-islands](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0695-max-area-of-island) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

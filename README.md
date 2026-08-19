@@ -14,6 +14,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | [0036-valid-sudoku](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -22,6 +23,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -156,6 +158,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |

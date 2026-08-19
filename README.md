@@ -103,6 +103,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | [1266-minimum-time-visiting-all-points](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/1929-concatenation-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Linked List
 |  |
@@ -215,6 +216,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0054-spiral-matrix) |
+| [1929-concatenation-of-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/1929-concatenation-of-array) |
 ## Union-Find
 |  |
 | ------- |

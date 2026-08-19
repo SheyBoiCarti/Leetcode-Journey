@@ -90,6 +90,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | [0200-number-of-islands](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -172,6 +173,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search Tree
 |  |

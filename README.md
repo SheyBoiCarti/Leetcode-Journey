@@ -12,6 +12,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | ------- |
 | [0001-two-sum](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0242-valid-anagram) |
@@ -23,6 +24,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
@@ -81,6 +83,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0200-number-of-islands) |
@@ -156,6 +159,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0242-valid-anagram) |

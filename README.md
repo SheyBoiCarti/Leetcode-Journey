@@ -89,6 +89,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | [0463-island-perimeter](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0994-rotting-oranges) |
 | [1266-minimum-time-visiting-all-points](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/1480-running-sum-of-1d-array) |
@@ -129,6 +130,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | [0463-island-perimeter](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
@@ -138,6 +140,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | [0463-island-perimeter](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0994-rotting-oranges) |
 ## Design
 |  |
 | ------- |

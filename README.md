@@ -14,6 +14,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | [0036-valid-sudoku](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0242-valid-anagram) |
@@ -91,6 +92,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | [0088-merge-sorted-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0219-contains-duplicate-ii) |
@@ -170,6 +172,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | ------- |
 | [0049-group-anagrams](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0268-missing-number) |
@@ -210,6 +213,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Geometry
@@ -230,6 +234,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -247,4 +252,8 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0997-find-the-town-judge) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

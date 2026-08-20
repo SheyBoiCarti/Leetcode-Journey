@@ -1,16 +1,16 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
 
-        hashmap={}
-        n = len(nums)/2
+        result=-1
+        counter=0
 
-        for num in nums:
-            if num not in hashmap:
-                hashmap[num]=1
+        for n in nums:
+            if counter==0:
+                result=n
+                counter=1
+            elif n==result:
+                counter+=1
             else:
-                hashmap[num]+=1
+                counter-=1
 
-        for key,value in hashmap.items():
-            print(value)
-            if value > n:
-                return key    
+        return result

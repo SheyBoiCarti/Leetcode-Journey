@@ -20,12 +20,7 @@ class Solution:
 
     
         while(l1 is not None and l2 is not None):
-            if l1.val == l2.val:
-                dummynode.next= ListNode(l1.val)
-                dummynode= dummynode.next
-                l1= l1.next
-
-            elif l1.val < l2.val:
+            if l1.val <= l2.val:
                 dummynode.next= ListNode(l1.val)
                 dummynode= dummynode.next
                 l1= l1.next

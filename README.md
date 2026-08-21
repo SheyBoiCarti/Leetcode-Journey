@@ -28,6 +28,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -84,6 +85,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0036-valid-sudoku) |
@@ -256,4 +258,8 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0169-majority-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

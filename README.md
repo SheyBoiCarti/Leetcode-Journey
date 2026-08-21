@@ -118,6 +118,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | ------- |
 | [0002-add-two-numbers](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -128,6 +129,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0206-reverse-linked-list) |
 ## DP on Trees
 |  |
 | ------- |

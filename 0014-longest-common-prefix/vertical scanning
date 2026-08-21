@@ -1,0 +1,15 @@
+class Solution:
+    def longestCommonPrefix(self, strs: List[str]) -> str:
+        prefix=''
+        
+        for i in range(len(strs[0])): #5
+            for j in range(len(strs)): #0,1,2
+                lettertocheck=strs[0][i]
+                if i >= len(strs[j]):
+                    return prefix
+
+                if lettertocheck!= strs[j][i]:
+                    return prefix
+            prefix+= lettertocheck
+        return prefix
+        

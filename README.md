@@ -14,6 +14,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | [0036-valid-sudoku](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0217-contains-duplicate) |
@@ -117,6 +118,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0206-reverse-linked-list) |
 ## Math
@@ -204,6 +206,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0141-linked-list-cycle) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -271,4 +274,8 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0146-lru-cache) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->

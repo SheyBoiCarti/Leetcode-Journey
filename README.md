@@ -122,6 +122,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | [0141-linked-list-cycle](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0206-reverse-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Math
 |  |
 | ------- |
@@ -237,6 +238,7 @@ profile: https://leetcode.com/u/Sheharyar_Codes/
 | ------- |
 | [0054-spiral-matrix](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/1929-concatenation-of-array) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/SheyBoiCarti/Leetcode-Journey/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Union-Find
 |  |
 | ------- |

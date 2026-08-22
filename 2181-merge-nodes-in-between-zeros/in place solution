@@ -1,0 +1,30 @@
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def mergeNodes(self, head: Optional[ListNode]) -> Optional[ListNode]:
+   
+
+        #in place solution
+
+        current= head.next
+        startofList= head
+        sum=0
+
+        while current:
+            if current.val != 0:
+                sum+=current.val
+            else:
+               startofList.val= sum
+               sum=0
+
+               if current.next: 
+                    startofList = startofList.next
+
+            current= current.next
+        
+        startofList.next= None
+        
+        return head
